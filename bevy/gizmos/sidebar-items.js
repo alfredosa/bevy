@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"mod":["arrows","circles","gizmos","prelude"],"struct":["AabbGizmo","AabbGizmoConfig","GizmoConfig","GizmoPlugin"]};
